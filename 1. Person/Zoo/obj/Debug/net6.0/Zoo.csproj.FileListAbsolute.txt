@@ -1,0 +1,15 @@
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\bin\Debug\net6.0\Zoo.exe
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\bin\Debug\net6.0\Zoo.deps.json
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\bin\Debug\net6.0\Zoo.dll
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\bin\Debug\net6.0\Zoo.pdb
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\obj\Debug\net6.0\Zoo.csproj.AssemblyReference.cache
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\obj\Debug\net6.0\Zoo.dll
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\obj\Debug\net6.0\Zoo.pdb
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+C:\Users\E5540\source\repos\OOP\1. Person\Zoo\obj\Debug\net6.0\ref\Zoo.dll
