@@ -1,0 +1,15 @@
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\PersonInfo.exe
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\PersonInfo.deps.json
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\PersonInfo.dll
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\PersonInfo.pdb
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\PersonInfo.csproj.AssemblyReference.cache
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\PersonInfo.dll
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\PersonInfo.dll
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\PersonInfo.pdb
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+C:\Users\E5540\source\repos\OOP\Interfaces and Abstraction - Exercise\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\PersonInfo.dll
