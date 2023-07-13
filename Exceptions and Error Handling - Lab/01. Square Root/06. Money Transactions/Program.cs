@@ -31,7 +31,7 @@ while ((command = Console.ReadLine())!= "End")
             {
                 throw  new IndexOutOfRangeException(bankAccount);
             }
-            Console.WriteLine($"Account {bankAccount} has new balance: {bankAccounts[bankAccount]}");
+            Console.WriteLine($"Account {bankAccount} has new balance: {bankAccounts[bankAccount]:f2}");
         }
         else if (commands[0] == "Withdraw")
         {
@@ -39,11 +39,16 @@ while ((command = Console.ReadLine())!= "End")
             double sumForDecrease = double.Parse(commands[2]);
             if (bankAccounts.ContainsKey(bankAccount))
             {
-                if (sumForDecrease> bankAccounts[bankAccount])
+                if (sumForDecrease > bankAccounts[bankAccount])
                 {
                     throw new ArithmeticException();
                 }
-                Console.WriteLine($"Account {bankAccount} has new balance: {bankAccounts[bankAccount]}");
+                bankAccounts[bankAccount] -= sumForDecrease;
+                Console.WriteLine($"Account {bankAccount} has new balance: {bankAccounts[bankAccount]:f2}");
+            }
+            else
+            {
+                throw new IndexOutOfRangeException(bankAccount);
             }
         }
         else

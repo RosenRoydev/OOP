@@ -1,0 +1,15 @@
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\bin\Debug\net6.0\AuthorProblem.exe
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\bin\Debug\net6.0\AuthorProblem.deps.json
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\bin\Debug\net6.0\AuthorProblem.dll
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\bin\Debug\net6.0\AuthorProblem.pdb
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.AssemblyReference.cache
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\obj\Debug\net6.0\AuthorProblem.dll
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\obj\Debug\net6.0\refint\AuthorProblem.dll
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\obj\Debug\net6.0\AuthorProblem.pdb
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\05. Create Attribute\AuthorProblem\obj\Debug\net6.0\ref\AuthorProblem.dll

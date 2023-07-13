@@ -1,0 +1,15 @@
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\bin\Debug\net6.0\Steal.exe
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\bin\Debug\net6.0\Steal.deps.json
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\bin\Debug\net6.0\Steal.runtimeconfig.json
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\bin\Debug\net6.0\Steal.dll
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\bin\Debug\net6.0\Steal.pdb
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\obj\Debug\net6.0\Steal.csproj.AssemblyReference.cache
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\obj\Debug\net6.0\Steal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\obj\Debug\net6.0\Steal.AssemblyInfoInputs.cache
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\obj\Debug\net6.0\Steal.AssemblyInfo.cs
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\obj\Debug\net6.0\Steal.csproj.CoreCompileInputs.cache
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\obj\Debug\net6.0\Steal.dll
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\obj\Debug\net6.0\refint\Steal.dll
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\obj\Debug\net6.0\Steal.pdb
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\obj\Debug\net6.0\Steal.genruntimeconfig.cache
+C:\Users\E5540\source\repos\OOP\Reflection and Attributes - Lab\04. Collector\Steal\obj\Debug\net6.0\ref\Steal.dll
